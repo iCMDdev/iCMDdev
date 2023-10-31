@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm CMD, a high school student with passion for everything computers, science, engineering and technology. 
+I'm CMD, a high school student with a passion for everything computers, science, engineering and technology. 
 I like the intersection between hardware, software and (of course) [liberal arts](https://www.youtube.com/watch?v=KlI1MR-qNt8).
 
 ```
