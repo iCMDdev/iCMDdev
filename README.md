@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+I'm CMD, a high school student with passion for everything computers, science, engineering and technology. 
+I like the intersection between hardware, software and (of course) [liberal arts](https://www.youtube.com/watch?v=KlI1MR-qNt8).
+
+```
+$ whoami
+cmd
+```
+
+Security contributions: 
+
+- CVE-2023-41254 - Apple Weather, addressed in [iOS 17.1](https://support.apple.com/en-us/HT213984)
+- Additional recognition - Apple Shortcuts, addressed in [iOS 17.0](https://support.apple.com/en-us/HT213938)
+- Additional recognition - Apple Shortcuts, addressed in [iOS 16.3](https://support.apple.com/en-us/HT213606)
+- CVE-2022-32938 - Apple Shortcuts, addressed in [iOS 16.1](https://support.apple.com/en-us/HT213489)
+
+
+
 <!--
 **iCMDdev/iCMDdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
