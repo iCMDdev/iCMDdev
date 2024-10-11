@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/ec96aeb7-6db6-4ed8-96cc-14b32705e08e" width="40%"/><br/>
 
 ### Hi there 👋
-I'm CMD, a high school student with a passion for everything computers, science, engineering and technology.
+I'm CMD, a student with a passion for everything computers, science, engineering and technology.
 
 #### Security contributions: 
 - CVE-2024-44170 - Siri, addressed in [iOS 18.0](https://support.apple.com/en-us/121250)
