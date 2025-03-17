@@ -6,6 +6,7 @@ I'm CMD, a student with a passion for everything computers, science, engineering
 #### Security contributions: 
 - CVE-2024-44200 - Siri, addressed in [iOS 18.1](https://support.apple.com/en-us/121563)
 - CVE-2024-44170 - Siri, addressed in [iOS 18.0](https://support.apple.com/en-us/121250)
+- Additional recognition - Apple Maps, addressed in [iOS 18.0](https://support.apple.com/en-us/121250)
 - Additional recognition - Apple Shortcuts, addressed in [iOS 18.0](https://support.apple.com/en-us/121250)
 - CVE-2024-40838 - macOS Notification Center, addressed in [macOS 15.0](https://support.apple.com/en-us/121238)
 - Additional recognition - Apple Core Services - [macOS 15.0](https://support.apple.com/en-us/121238)
