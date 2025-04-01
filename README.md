@@ -4,6 +4,7 @@
 I'm CMD, a student with a passion for everything computers, science, engineering and technology.
 
 #### Security contributions: 
+- CVE-2025-24263 - Apple StickerKit, addressed in [macOS 15.4](https://support.apple.com/en-us/122373)
 - CVE-2024-44200 - Siri, addressed in [iOS 18.1](https://support.apple.com/en-us/121563)
 - CVE-2024-44170 - Siri, addressed in [iOS 18.0](https://support.apple.com/en-us/121250)
 - Additional recognition - Apple Maps, addressed in [iOS 18.0](https://support.apple.com/en-us/121250)
