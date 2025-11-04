@@ -5,7 +5,7 @@ I'm CMD, a student with a passion for everything computers, science, engineering
 
 #### Security contributions:
 
-As a student, I continue to acquire new knowledge, but I like to try to apply my learnings in practical situations, such as Bug Bounty / CVD program. I have reported **20+ vulnerabilities** to Apple, out of which **12+** received CVE IDs.
+As a student, I continue to acquire new knowledge, but I like to try to apply my learnings in practical situations, such as Bug Bounty / CVD programs. I have reported **20+ vulnerabilities** to Apple, out of which **12+** received CVE IDs.
 
 Here are the most significant ones so far (in my opinion):
 - [CVE-2025-43398](https://support.apple.com/en-us/125632) - Kernel (Apple XNU)
