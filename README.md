@@ -3,7 +3,20 @@
 ### Hi there 👋
 I'm CMD, a student with a passion for everything computers, science, engineering and technology.
 
-#### Security contributions: 
+#### Security contributions:
+
+As a student, I continue to acquire new knowledge, but I like to try to apply my learnings in practical situations, such as Bug Bounty / CVD program. I have reported **20+ vulnerabilities** to Apple, out of which **12+** received CVE IDs.
+
+Here are the most significant ones so far (in my opinion):
+- [CVE-2025-43398](https://support.apple.com/en-us/125632) - Kernel (Apple XNU)
+- [CVE-2025-43399](https://support.apple.com/en-us/125634), [CVE-2025-43367](https://support.apple.com/en-us/125110), [CVE-2024-44200](https://support.apple.com/en-us/121563) - Siri sensitive information disclosures
+
+<details>
+
+<summary> <b>Full list of contributions & fixed versions</b> </summary>
+
+- CVE-2025-43398 - Kernel (Apple XNU), addressed in [iOS 26.1](https://support.apple.com/en-us/125632)
+- CVE-2025-43399 - Siri, addressed in [macOS 26.1](https://support.apple.com/en-us/125634)
 - CVE-2025-43367 - Siri, addressed in [macOS 26](https://support.apple.com/en-us/125110)
 - CVE-2025-24263 - Apple StickerKit, addressed in [macOS 15.4](https://support.apple.com/en-us/122373)
 - CVE-2024-44200 - Siri, addressed in [iOS 18.1](https://support.apple.com/en-us/121563)
@@ -23,3 +36,4 @@ I'm CMD, a student with a passion for everything computers, science, engineering
 - Additional recognition - Apple Shortcuts, addressed in [iOS 16.3](https://support.apple.com/en-us/HT213606)
 - CVE-2022-32938 - Apple Shortcuts, addressed in [iOS 16.1](https://support.apple.com/en-us/HT213489)
 
+</details>
