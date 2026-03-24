@@ -5,7 +5,7 @@ I'm CMD, a student with a passion for everything computers, science, engineering
 
 #### Security contributions:
 
-As a student, I continue to acquire new knowledge, but I like to try to apply my learnings in practical situations, such as Bug Bounty / CVD programs. I have reported **20+ vulnerabilities** to Apple, out of which **12+** received CVE IDs.
+As a student, I continue to acquire new knowledge, but I like to try to apply my learnings in practical situations, such as Bug Bounty / CVD programs. I have reported **20+ vulnerabilities** to Apple and other vendors, out of which **14+** received CVE IDs.
 
 Here are the most significant ones so far (in my opinion):
 - [CVE-2025-43398](https://support.apple.com/en-us/125632) - Kernel (Apple XNU)
@@ -17,6 +17,7 @@ Here are the most significant ones so far (in my opinion):
 <summary> <b>Full list of contributions & fixed versions</b> </summary>
 
 - CVE-2026-28866 - iOS Clipboard, addressed in [iOS 26.4](https://support.apple.com/en-us/126792)
+- CVE-2026-28499 - Vapor LeafKit XSS, addressed in [LeafKit 1.14.2](https://github.com/vapor/leaf-kit/releases/tag/1.14.2)
 - CVE-2025-43398 - Kernel (Apple XNU), addressed in [iOS 26.1](https://support.apple.com/en-us/125632)
 - CVE-2025-43399 - Siri, addressed in [macOS 26.1](https://support.apple.com/en-us/125634)
 - CVE-2025-43367 - Siri, addressed in [macOS 26](https://support.apple.com/en-us/125110)
