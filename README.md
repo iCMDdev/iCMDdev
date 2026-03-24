@@ -16,6 +16,7 @@ Here are the most significant ones so far (in my opinion):
 
 <summary> <b>Full list of contributions & fixed versions</b> </summary>
 
+- CVE-2026-28866 - iOS Clipboard, addressed in [iOS 26.4](https://support.apple.com/en-us/126792)
 - CVE-2025-43398 - Kernel (Apple XNU), addressed in [iOS 26.1](https://support.apple.com/en-us/125632)
 - CVE-2025-43399 - Siri, addressed in [macOS 26.1](https://support.apple.com/en-us/125634)
 - CVE-2025-43367 - Siri, addressed in [macOS 26](https://support.apple.com/en-us/125110)
