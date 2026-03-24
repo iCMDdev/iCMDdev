@@ -9,6 +9,7 @@ As a student, I continue to acquire new knowledge, but I like to try to apply my
 
 Here are the most significant ones so far (in my opinion):
 - [CVE-2025-43398](https://support.apple.com/en-us/125632) - Kernel (Apple XNU)
+- [CVE-2026-28866](https://support.apple.com/en-us/126792) - iOS Clipboard
 - [CVE-2025-43399](https://support.apple.com/en-us/125634), [CVE-2025-43367](https://support.apple.com/en-us/125110), [CVE-2024-44200](https://support.apple.com/en-us/121563) - Siri sensitive information disclosures
 
 <details>
